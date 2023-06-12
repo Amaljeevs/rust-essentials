@@ -14,7 +14,7 @@ fn function_name(parameter1: Type1, parameter2: Type2) -> ReturnType {
 }
 ```
 
-> fn: The keyword used to define a function.
+fn: The keyword used to define a function.
 function_name: The name of the function.
 parameter1, parameter2: The parameters (inputs) of the function, along with their types.
 ReturnType: The type of value that the function returns.
