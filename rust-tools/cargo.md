@@ -7,20 +7,25 @@ Cargo is the package manager and build tool for Rust. It simplifies the process 
 To create a new Rust project using Cargo, navigate to the desired directory in your terminal and run the following command:
 
 ```bash
-$ cargo new my_project
+$ cargo new my_project 
+```
 This command creates a new directory named my_project containing the basic structure for a Rust project. It also initializes a new Git repository in the project directory by default.
 
 ### Building and Running a Project
 To build a Rust project using Cargo, navigate to the project directory and run the following command:
 
 Copy code
+```bash
 $ cargo build
+```
 Cargo will fetch and build any necessary dependencies and compile your project. The resulting executable will be placed in the target/debug directory.
 
 To run the project, use the cargo run command:
 
 Copy code
+```bash
 $ cargo run
+```
 Cargo will build the project if necessary and execute the resulting binary.
 
 ### Dependency Management
@@ -28,8 +33,10 @@ Cargo simplifies dependency management by utilizing the Cargo.toml file. This fi
 
 toml
 Copy code
+```bash
 [dependencies]
 rand = "0.8.4"
+```
 After modifying the Cargo.toml file, run cargo build to fetch and compile the dependencies.
 
 ### Testing
