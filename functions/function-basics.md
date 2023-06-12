@@ -21,7 +21,7 @@ ReturnType: The type of value that the function returns.
 ->: The arrow operator used to specify the return type.
 Function body: The code block enclosed within curly braces {} that represents the function's implementation.
 
-###Function Example
+### Function Example
 Here's an example of a simple function that calculates the sum of two numbers and returns the result:
 
 ```rust
