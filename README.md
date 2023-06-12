@@ -1,6 +1,7 @@
 # Rust Essentials
 
-![rust-2](https://github.com/Amaljeevs/rust-essentials/assets/85802462/4716bdd5-f8ca-4d98-8a34-4df8f94feca8)
+![rust-social-wide](https://github.com/Amaljeevs/rust-essentials/assets/85802462/d621a0f1-ebc8-4d7a-b470-71b500f58337)
+
 
 Welcome to the Rust Essentials repository! This repository aims to provide a comprehensive introduction to the Rust programming language, covering essential concepts, tools, and techniques. Whether you're a beginner getting started with Rust or an experienced developer looking to brush up on core concepts, this repository is designed to help you on your Rust learning journey.
 
