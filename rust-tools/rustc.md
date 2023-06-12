@@ -7,7 +7,7 @@ Rustc is the Rust compiler, responsible for translating Rust source code into ex
 To compile a Rust source file, you can use the `rustc` command followed by the file name with the `.rs` extension. Here's an example:
 
 ```bash
-$ rustc hello.rs 
+> $ rustc hello.rs 
 This command will compile the hello.rs file and generate an executable file named hello (or hello.exe on Windows) in the same directory.
 
 Compilation Options
