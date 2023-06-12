@@ -1,5 +1,7 @@
 # Rust Essentials
 
+![alt text]([http://url/to/img.png](https://www.freecodecamp.org/news/content/images/2020/08/rust-2.jpg))
+
 Welcome to the Rust Essentials repository! This repository aims to provide a comprehensive introduction to the Rust programming language, covering essential concepts, tools, and techniques. Whether you're a beginner getting started with Rust or an experienced developer looking to brush up on core concepts, this repository is designed to help you on your Rust learning journey.
 
 ## Table of Contents
